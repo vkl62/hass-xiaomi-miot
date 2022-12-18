@@ -1,6 +1,6 @@
 # https://iot.mi.com/new/doc/tools-and-resources/design/spec/description
 TRANSLATION_LANGUAGES = {
-    'zh': {
+    'ru': {
         'off': '关闭',
         'idle': '空闲',
         'busy': '工作中',
